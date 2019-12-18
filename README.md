@@ -58,8 +58,16 @@
 
 
 
+## Benchmark analyses
+
+[0] Navarro, P. *et al.* A multicenter study benchmarks software tools for label-free proteome quantification. *Nat. Biotechnol.* **34**, 1130–1136 (2016).
+
+
+
 ## Alignment methods
 
 [0] Röst, H. L. *et al.* TRIC: An automated alignment strategy for reproducible protein quantification in targeted proteomics. *Nat. Methods* **13**, 777–783 (2016). **(TRIC)**
 
 [1] Gupta, S., Ahadi, S., Zhou, W. & Rost, H. DIAlignR provides precise retention time alignment across distant runs in DIA and targeted proteomics. *Mol. Cell. Proteomics* **126**, mcp.TIR118.001132 (2019). **(DIAlignR)**
+
+[2] Wu, L., Amon, S. & Lam, H. A hybrid retention time alignment algorithm for SWATH-MS data. *Proteomics* **16**, 2272–2283 (2016).
