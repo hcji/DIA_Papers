@@ -12,11 +12,14 @@
 
 [3] Egertson, J. D., MacLean, B., Johnson, R., Xuan, Y. & MacCoss, M. J. Multiplexed peptide analysis using data-independent acquisition and Skyline. *Nat. Protoc.* **10**, 887–903 (2015). **(Skyline)**
 
+[4] Ting, Ying S , et al. "PECAN: library-free peptide detection for data-independent acquisition tandem mass spectrometry data." Nature Methods (2017). **(PECAN)**
 
 
 ## Spectrum-centric methods
 
 [0] Tsou, C. C. *et al.* DIA-Umpire: Comprehensive computational framework for data-independent acquisition proteomics. *Nat. Methods* **12**, 258–264 (2015). **(DIA-Umpire)**
+
+[1] Li, Y. , et al. "Group-DIA: analyzing multiple data-independent acquisition mass spectrometry data files." Nature Methods (2015). **(Group-DIA)**
 
 
 
