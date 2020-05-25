@@ -22,6 +22,9 @@
 [1] Li, Y. , et al. "Group-DIA: analyzing multiple data-independent acquisition mass spectrometry data files." Nature Methods (2015). **(Group-DIA)**
 
 
+## Assay library generation (for peptide-centric methods)
+[0] Olga T Schubert. *et al.* Building high-quality assay libraries for targeted analysis of SWATH MS data. *Nat. Protocols* **10**, 426–441 (2015).
+
 
 ## Peptide spectrum prediction (for peptide-centric methods)
 
